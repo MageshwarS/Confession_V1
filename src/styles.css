@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    /* background: rgba(255, 231, 253, 0.951); */
+    /* background: linear-gradient(135deg, #c3ebfc, #ffffff, #ffb9ff, #c3ebfc);  */
+    background: url('src/assets/backgroundSky.jpg');  
+    background-size: cover;
+
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    height: 97.7vh; 
+}
