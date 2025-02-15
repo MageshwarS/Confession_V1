@@ -26,8 +26,8 @@ export class AppComponent {
 
   onYesClick() {
     // Simulate sending an email (you would implement backend service here)
-    window.location.href = "mailto:s.mageshwar01@gmail.com??subject=Confess&body=YES!";
     alert('I Knew. Apo ithu love thaana Jessi? ❤️;)');
+    window.location.href = "mailto:s.mageshwar01@gmail.com?subject=ConfessionResponse&body=YES!";
   }
 
   onMaybeLaterClick() {
